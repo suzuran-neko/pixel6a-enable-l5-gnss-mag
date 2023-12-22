@@ -1,0 +1,1 @@
+# pixel6a-enable-l5-gnss-mag
