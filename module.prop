@@ -1,0 +1,6 @@
+id=pixel6a-enable-l5
+name=Pixel 6a enable L5 GNSS
+version=v1
+versionCode=1
+author=Github @suzuran_neko
+description=Enable dual-band(L1+L5) gnss on pixel 6a
